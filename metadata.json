@@ -1,0 +1,6 @@
+{
+  "name": "SplitnPay",
+  "description": "Multi-currency group expense splitter and instant peer-to-peer settlement ledger. ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
